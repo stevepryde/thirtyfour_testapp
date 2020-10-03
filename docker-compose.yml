@@ -11,6 +11,6 @@ services:
       - NODE_MAX_SESSION=4
   webappdemo:
     build:
-      context: webappdemo
+      context: .
     ports:
       - "8000:80"

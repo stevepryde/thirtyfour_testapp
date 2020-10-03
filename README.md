@@ -1,4 +1,4 @@
-# webappdemo
+# thirtyfour_testapp
 
 Simple web app for testing the `thirtyfour` Selenium library for Rust.
 
