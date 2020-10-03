@@ -1,4 +1,4 @@
-FROM node:lts
+FROM node:lts-slim
 
 RUN yarn global add serve
 
